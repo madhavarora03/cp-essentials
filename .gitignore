@@ -1,0 +1,15 @@
+# For ignoring all binary files
+*
+!/**/
+!*.*
+!LICENSE
+*.exe
+*.out
+*.app
+
+# Editor
+.vscode
+
+# Ignore input and output files
+input.txt
+output.txt
