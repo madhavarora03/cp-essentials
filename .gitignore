@@ -13,3 +13,6 @@
 # Ignore input and output files
 input.txt
 output.txt
+
+# debug files
+debug.*
