@@ -2,6 +2,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+// O(log(b))
+
 int powr(int a, int b) {
 	int res = 1;
 	while (b) {
@@ -14,7 +16,7 @@ int powr(int a, int b) {
 
 int main() {
 
-	cout << powr(5, 4);
-
+	cout << powr(5, 4) << endl;
+	cout << powr(2, 100);
 	return 0;
 }
