@@ -17,6 +17,5 @@ int powr(int a, int b) {
 int main() {
 
 	cout << powr(5, 4) << endl;
-	cout << powr(2, 100);
 	return 0;
 }
